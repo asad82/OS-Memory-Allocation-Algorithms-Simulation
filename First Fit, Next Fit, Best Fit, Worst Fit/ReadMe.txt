@@ -1,5 +1,5 @@
-First Fit
----------
+First Fit, Next Fit, Best Fit, Worst Fit
+-----------------------------------------
 
 Implementation Details
 
